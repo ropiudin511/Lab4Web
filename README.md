@@ -4,4 +4,8 @@
 
 
 # Mengatur Clearfix Element
+
+![Mengatur Clearfix Element](screnshot/gambar2.png)
+
+
 # Membuat Layout Sederhana
