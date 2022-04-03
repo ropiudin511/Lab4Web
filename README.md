@@ -9,3 +9,5 @@
 
 
 # Membuat Layout Sederhana
+
+![Membuat Layout Sederhana](screnshot/gambar3.png)
